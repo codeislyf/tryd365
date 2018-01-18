@@ -1,0 +1,33 @@
+{
+  "name": "accounts-bot",
+  "version": "0.0.1",
+  "description": "Accounts Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "author": "Sertac Ozercan",
+  "license": "MIT",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "applicationinsights": "^0.16.0",
+    "botbuilder": "^3.13.1",
+    "dotenv": "^2.0.0",
+    "express-session": "^1.15.6",
+    "node-emoji": "^1.8.1",
+    "passport-azure-ad": "^3.0.9",
+    "passport-restify": "^1.0.1",
+    "request": "^2.83.0",
+    "restify": "^4.3.2"
+  }
+}
